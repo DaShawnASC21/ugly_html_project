@@ -1,0 +1,28 @@
+body {
+    background: black;
+
+}
+
+h1 {
+    background: blue;
+    color: yellow;
+    text-align: center;
+    padding: 10px;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+img {
+    border: solid blue 3px;
+    padding: 5px;
+}
+
+ul {
+    color: white;
+}
